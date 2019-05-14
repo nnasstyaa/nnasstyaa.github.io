@@ -1,0 +1,51 @@
+{ font-family: "Times New Roman" }
+
+body {background-color:#FFC0CB }
+
+h1 {	
+	text-align: center;
+	color: #000000;
+	text-height:40px;}
+
+#dog {	
+	background-color:#BC8F8F;
+	width: 100%;
+	float:left;
+	text-align: center;}
+
+#center {	
+	font-family: "Times New Roman";
+	font-style: oblique;
+	text-align: center;
+	background-color:#EE82EE;
+	margin: 0px ;
+	font-size: 40px;}
+
+li {list-style-type: none;}
+
+.menu li {float: left;}
+
+.menu li a{	padding: 90px;
+	color: #191970;}
+
+#left {	
+	background-color:#FFEFD5;
+	text-align: left;
+	margin-left: auto;
+    margin-right: auto;
+    width: 650px;}
+
+#right {
+	background-color: #D8BFD8;
+	border: 1.5px solid black;
+	margin-left: auto;
+    margin-right: auto;
+    width:650px;}
+
+img {
+	padding: 25px;
+    width: 600px}
+
+.dogdog {
+	text-align: center;
+	font-style: oblique}
